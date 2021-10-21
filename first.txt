@@ -1,4 +1,4 @@
 gitの練習をしました
 .git add
 .git commit
-.git rm
+.git rmfdsaf
