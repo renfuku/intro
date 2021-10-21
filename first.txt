@@ -1,1 +1,3 @@
-gitの練習をします
+gitの練習をしました
+.git add
+.git commit
