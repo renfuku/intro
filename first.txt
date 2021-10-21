@@ -1,4 +1,5 @@
 gitの練習をしました
 .git add
 .git commit
-.git rmfdsaf
+.git rm
+.git status
